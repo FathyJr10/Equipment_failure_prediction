@@ -1,4 +1,3 @@
-# maintenance_plan_model
 
 # Equipment Failure Prediction Using Logistic Regression
 Overview
