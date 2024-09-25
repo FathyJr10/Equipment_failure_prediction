@@ -44,8 +44,7 @@ You can input new feature values (e.g., operating hours, temperature) to predict
 # Results
 The model achieved an accuracy of X% on the test set, demonstrating its potential to predict equipment failures effectively. The classification report and confusion matrix provide deeper insight into precision, recall, and F1-score.
 
-# Further Work
-A mobile application is currently in development to make it easier for users to interact with the model on the go. This app will allow maintenance personnel to input equipment data and receive real-time failure predictions directly from their mobile devices, streamlining the process of preventive maintenance.
-
+# A web application is integreted with the backend 
+a web app is disgned with angular , you enter the data and it gives you whether this machine will fail or not
 # Contributing
 Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or submit a pull request.
